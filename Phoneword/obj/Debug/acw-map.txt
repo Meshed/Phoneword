@@ -1,0 +1,2 @@
+Phoneword.MainActivity;phoneword.MainActivity
+Phoneword.CallHistoryActivity;phoneword.CallHistoryActivity
